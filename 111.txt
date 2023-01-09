@@ -1,0 +1,18 @@
+
+0.credential Manager
+ - remove
+1. git init
+================
+2. git config user.name "Napatsutthitham"
+=================
+3. git config user.email "napatsutthitham@gmail.com"
+=================
+4. git config --list
+=================
+5. git add .
+=================
+6. git commit -m "updata"
+=================
+7. git remote add origin xxxx
+=================
+8. git push -u origin master(main)
